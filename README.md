@@ -10,8 +10,8 @@ import cn.featherfly.common.db.metadata.DatabaseMetadataManager;
 import cn.featherfly.juorm.rdb.jdbc.mapping.JdbcMappingFactory;
 import cn.featherfly.juorm.rdb.sql.dialect.Dialects;
 import cn.featherfly.juorm.tpl.TplConfigFactory;
+```suggestion
 import cn.featherfly.juorm.tpl.TplConfigFactoryImpl;
 ```
 
 console.log(2333)
-
