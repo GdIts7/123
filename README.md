@@ -5,7 +5,7 @@ aab                                       b
 ### JuormJdbcImpl配置1
 ```java
 import cn.featherfly.constant.ConstantConfigurator;
-import cn.featherfly.common.db.metadata.DatabaseMetadata22222;
+import cn.featherfly.common.db.metadata.DatabaseMetadata;
 import cn.featherfly.common.db.metadata.DatabaseMetadataManager2;
 import cn.featherfly.juorm.rdb.jdbc.mapping.JdbcMappingFactory2;
 import cn.featherfly.juorm.rdb.sql.dialect.Dialects1;
