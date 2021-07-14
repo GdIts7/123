@@ -9,7 +9,7 @@ import cn.featherfly.common.db.metadata.DatabaseMetadata22222;
 import cn.featherfly.common.db.metadata.DatabaseMetadataManager2;
 import cn.featherfly.juorm.rdb.jdbc.mapping.JdbcMappingFactory2;
 import cn.featherfly.juorm.rdb.sql.dialect.Dialects1;
-import cn.featherfly.juorm.tpl.TplConfigFactory;
+import cn.featherfly.juorm.tpl.TplConfigFactory;1
 ```suggestion
 import cn.featherfly.juorm.tpl.TplConfigFactoryImpl;
 ```
