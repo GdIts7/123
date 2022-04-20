@@ -12,3 +12,12 @@ import cn.featherfly.juorm.rdb.sql.dialect.Dialects;
 import cn.featherfly.juorm.tpl.TplConfigFactory;
 import cn.featherfly.juorm.tpl.TplConfigFactoryImpl;
 ```
+
+``` mermaid
+graph TD
+    A["img src=invalid onerror=alert('XSS')"] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
