@@ -1,11 +1,11 @@
-name: Bug Report
+name: Bug Report222222
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
-  - type: markdown23
+  - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
